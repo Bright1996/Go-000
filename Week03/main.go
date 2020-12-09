@@ -40,7 +40,7 @@ func HttpServer(ctx context.Context, addr string, handler http.Handler) error {
 
 	go func() {
 		<-ctx.Done()
-		_ = s.Shutdown(context.TODO())
+		_ = s.Shutdown(ctx)
 	}()
 
 	err := s.ListenAndServe()

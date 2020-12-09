@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47514b69-1d16-4a7e-b1be-a9000eeb56f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week01/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week03/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week03/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +71,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第二周作业" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二周作业" />
+    <MESSAGE value="第三周" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三周" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
